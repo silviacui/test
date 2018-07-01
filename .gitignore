@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# appium
+.pytest_cache
+.idea
+__pycache__/
+report
+main.py
